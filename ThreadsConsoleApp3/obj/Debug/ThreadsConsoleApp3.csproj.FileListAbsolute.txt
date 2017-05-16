@@ -1,0 +1,6 @@
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\bin\Debug\ThreadsConsoleApp3.exe.config
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\bin\Debug\ThreadsConsoleApp3.exe
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\bin\Debug\ThreadsConsoleApp3.pdb
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\obj\Debug\ThreadsConsoleApp3.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\obj\Debug\ThreadsConsoleApp3.exe
+D:\Programowanie\VisualProjects\ThreadsConsoleApp3\ThreadsConsoleApp3\obj\Debug\ThreadsConsoleApp3.pdb
