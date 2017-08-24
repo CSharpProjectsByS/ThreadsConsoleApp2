@@ -1,6 +1,6 @@
 # ThreadsConsoleApp2
 
-## Aplikacja ma za zadadnie ukazać różnicę pomiędzy wątkiem typu foreground, a background.
+## Aplikacja ma za zadnie ukazać różnicę pomiędzy wątkiem typu foreground, a background.
 
 ### Należy ukazać, że jeżeli wątęk typu foreground się zakończy to wątek typu background zostanie unicestwiony.
 
